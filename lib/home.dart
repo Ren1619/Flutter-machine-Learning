@@ -156,6 +156,7 @@ class _HomeState extends State<Home> {
                         backgroundColor: Colors.black,
                         fontSize: 25,
                         color: Colors.white,
+                        fontFamily:  'Roboto',
                       ),
                       textAlign: TextAlign.center,
                     ),
