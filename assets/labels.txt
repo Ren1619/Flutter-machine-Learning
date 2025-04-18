@@ -1,0 +1,14 @@
+0 Old 1 Peso Coin
+1 Old 5 Peso Coin
+2 New 1 Peso Coin
+3 New 5 Peso Coin
+4 Old 10 Peso Coin
+5 New 10 Peso Coin
+6 20 Peso Coin
+7 20 Peso Bill
+8 50 Peso Bill
+9 100 Peso Bill
+10 200 Peso Bill
+11 500 Peso Bill
+12 Old 1000 Peso Bill
+13 New 1000 Peso Bill
